@@ -65,23 +65,6 @@
 
 🏆 **2500+ Problems Solved**
 
----
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-</p>
-
-- Machine Learning
-- Generative AI
-- Large Language Models
-- Natural Language Processing
-- Prompt Engineering
-- AI Automation
-- AI Product Development
 
 ---
 
@@ -121,11 +104,11 @@
 
 </p>
 
-**NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • LangChain • Hugging Face • and many other Python libraries**
+**NumPy • Pandas • LangChain • Hugging Face • and many other Python libraries**
 
 ---
 
-## 🎙️ Voice AI
+## 🎙️ Voice AI (Recent Project)
 
 I'm interested in building conversational AI systems that can communicate naturally with users.
 
