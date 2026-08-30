@@ -3,12 +3,12 @@
 <h1 align="center">👋 Hi, I'm Prince Kaklotar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Mathematics+%26+Computing+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+AI+Agents;Voice+AI+%7C+AI+Calling+Agents+%F0%9F%8E%99%EF%B8%8F;2500%2B+Problems+Solved+%F0%9F%A7%A9;Building+AI+Powered+Products+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Mathematics+%26+Computing+Student+%F0%9F%8E%93;RAG+%7C+LangChain+%7C+AI+Agents;Voice+AI+%7C+AI+Calling+Agents+%F0%9F%8E%99%EF%B8%8F;2500%2B+Problems+Solved+%F0%9F%A7%A9;Building+AI+Powered+Products+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
+</p> -->
 
 ---
 
